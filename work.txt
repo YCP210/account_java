@@ -1,2 +1,2 @@
 Hello Git Hi Hello
-We need to git
+We can do it!
